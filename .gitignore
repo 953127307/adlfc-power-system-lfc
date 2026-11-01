@@ -1,0 +1,5 @@
+/results/
+*.asv
+*.m~
+.DS_Store
+Thumbs.db

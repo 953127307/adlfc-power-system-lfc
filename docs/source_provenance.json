@@ -1,0 +1,52 @@
+[
+  {
+    "file": "src/A_mfile_sim.m",
+    "source": "仿真-ADLFC/R2_2.2_取消输入限幅审核_20261023/source/A/A_mfile_sim.m",
+    "sha256": "7a0c39511c6a728349af620f75211a2bf3937b531fe992e70c69808543cc19a4"
+  },
+  {
+    "file": "src/B_mfile_sim.m",
+    "source": "仿真-ADLFC/R2_3.5_分时混合负荷审核_20261027/source/B/B_mfile_sim.m",
+    "sha256": "4606b31b6e64c1293157f2fb653c70ad0c4f379e7938524ef4be73f476f2cb8b"
+  },
+  {
+    "file": "src/A_S5_metrics.m",
+    "source": "仿真-ADLFC/R2_2.2_取消输入限幅审核_20261023/source/A/A_S5_metrics.m",
+    "sha256": "ea734e07466bf37d8b981d19b3ae8679e9ad356de3b4a7796577cbfbe8064b67"
+  },
+  {
+    "file": "src/offline/P_sim.m",
+    "source": "仿真-ADLFC/R2_2.2_取消输入限幅审核_20261023/source/A/P_sim.m",
+    "sha256": "c6e7a2c24ae3924bf9261178744517b0ee5c3d895921032ebc4bbda20db29ea4"
+  },
+  {
+    "file": "src/offline/A_S1_data_collection.m",
+    "source": "仿真-ADLFC/R2_2.2_取消输入限幅审核_20261023/source/A/A_S1_data_collection.m",
+    "sha256": "b3aefa61e8235f23e367c69c08878a890f02b462fd2de204ccf9a21725a4043c"
+  },
+  {
+    "file": "src/offline/A_S2_calculate_parameters.m",
+    "source": "仿真-ADLFC/R2_2.2_取消输入限幅审核_20261023/source/A/A_S2_calculate_parameters.m",
+    "sha256": "fa87aec058078a36b320e9564d7ba6f6781861f986415134c429208e0e5902e7"
+  },
+  {
+    "file": "src/offline/fun_checkRowFullRank.m",
+    "source": "仿真-ADLFC/R2_2.2_取消输入限幅审核_20261023/source/A/fun_checkRowFullRank.m",
+    "sha256": "e4b55abfa142421a408e57827eedc3182176c341c66af52fa166d56e8d793848"
+  },
+  {
+    "file": "data/controller_design.mat",
+    "source": "仿真-ADLFC/R2_3.5_分时混合负荷审核_20261027/controller_weights_unchanged.mat",
+    "sha256": "9951005d819cf4b08cbddfc016b654f360568f7f4d14a4d0e3d526ad1caf8846"
+  },
+  {
+    "file": "data/mixed_load_profile.mat",
+    "source": "仿真-ADLFC/R2_3.5_分时混合负荷审核_20261027/data/load_profile.mat",
+    "sha256": "eacabf93032b358dcb0f65d5dc1e63aa9e4579d8993c678606aa6f10ac29314c"
+  },
+  {
+    "file": "config/mixed_load.json",
+    "source": "仿真-ADLFC/R2_3.5_分时混合负荷审核_20261027/data/load_config.json",
+    "sha256": "0c08915d74a85eac58366b6ad3b26fb0f847b129a0943cbf49d8532fed58037d"
+  }
+]

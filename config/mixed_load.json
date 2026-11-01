@@ -1,0 +1,40 @@
+{
+  "duration_s": 420,
+  "integration_step_s": 0.001,
+  "onset_s_by_area": [
+    60,
+    200,
+    360
+  ],
+  "smooth_start_s": 5,
+  "baseline_pu": [
+    0.02,
+    0.028,
+    0.024,
+    0.026
+  ],
+  "step_pu": 0.0125,
+  "multisine_frequencies_hz": [
+    0.01,
+    0.05,
+    0.2
+  ],
+  "multisine_amplitudes_pu": [
+    0.003,
+    0.0015,
+    0.0005
+  ],
+  "ou_stationary_std_pu": 0.0025,
+  "ou_correlation_time_s": 5,
+  "seed": 2.0261027E+7,
+  "ou_initial_value_pu": 0,
+  "state_equation_noise_bound": 1E-10,
+  "governor_rate_limit_pu_per_s": 2,
+  "input_amplitude_clipping": false,
+  "area_load_types": [
+    "step",
+    "multisine",
+    "OU random",
+    "constant"
+  ]
+}

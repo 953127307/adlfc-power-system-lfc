@@ -1,0 +1,82 @@
+{
+  "validated_on": "2026-11-01",
+  "matlab_release": "2023b",
+  "matlab_version": "23.2.0.2365128 (R2023b)",
+  "platform": "PCWIN64",
+  "full_resolution_cases": [
+    {
+      "part": "A",
+      "case_id": 1,
+      "max_absolute_errors": {
+        "t": 0,
+        "x_cell": 0,
+        "u_cell": 0,
+        "P_f": 0,
+        "P_f_d": 0,
+        "ACE": 0
+      }
+    },
+    {
+      "part": "A",
+      "case_id": 2,
+      "max_absolute_errors": {
+        "t": 0,
+        "x_cell": 0,
+        "u_cell": 0,
+        "P_f": 0,
+        "P_f_d": 0,
+        "ACE": 0
+      }
+    },
+    {
+      "part": "A",
+      "case_id": 3,
+      "max_absolute_errors": {
+        "t": 0,
+        "x_cell": 0,
+        "u_cell": 0,
+        "P_f": 0,
+        "P_f_d": 0,
+        "ACE": 0
+      }
+    },
+    {
+      "part": "B",
+      "case_id": 1,
+      "max_absolute_errors": {
+        "t": 0,
+        "x_cell": 0,
+        "u_cell": 0,
+        "P_f": 0,
+        "P_f_d": 0,
+        "ACE": 0
+      }
+    },
+    {
+      "part": "B",
+      "case_id": 2,
+      "max_absolute_errors": {
+        "t": 0,
+        "x_cell": 0,
+        "u_cell": 0,
+        "P_f": 0,
+        "P_f_d": 0,
+        "ACE": 0
+      }
+    },
+    {
+      "part": "B",
+      "case_id": 3,
+      "max_absolute_errors": {
+        "t": 0,
+        "x_cell": 0,
+        "u_cell": 0,
+        "P_f": 0,
+        "P_f_d": 0,
+        "ACE": 0
+      }
+    }
+  ],
+  "manuscript_tables_III_to_V_match": true,
+  "governor_rate_checks_pass": true
+}
